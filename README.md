@@ -1,64 +1,113 @@
-# 👋 Hello, I'm [Your Name]
-
-[![Website](https://img.shields.io/badge/Website-YourDomain.com-blue)](https://yourdomain.com)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-
-## 📊 GitHub Metrics
-
-<!-- You'll need to set up GitHub Actions to automatically update these metrics -->
-![Metrics](https://metrics.lecoq.io/yourusername?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&followup=1&lines=1&achievements=1&notable=1&activity=1&commits=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&isocalendar.duration=half-year&commits.by.date=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Your/Timezone)
-
-## 💻 Coding Activity
-
-<!-- Replace with your actual stats -->
-```text
-JavaScript   █████████████░░░░░   70%
-TypeScript   ████████░░░░░░░░░   45%
-Python       ██████░░░░░░░░░░░   35%
-Vue          ████░░░░░░░░░░░░░   25%
-```
-
-## 🎯 Current Projects
-
-<!-- Update with your actual projects -->
-- 🚀 [Project 1](https://github.com/yourusername/project1) - Description
-- 🌟 [Project 2](https://github.com/yourusername/project2) - Description
-- 🔧 [Project 3](https://github.com/yourusername/project3) - Description
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-## 🛠️ Technologies & Tools
-
-<!-- Replace these with your actual tech stack -->
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-## 📊 This Week's Coding Stats
-
-<!-- You'll need to set up Wakatime for this section -->
-<!--START_SECTION:waka-->
-```text
-JavaScript   16 hrs 40 mins  ███████████░░░░░░░░   44.15% 
-Vue.js       8 hrs 35 mins   ███████░░░░░░░░░░░░   22.73% 
-Python       4 hrs 45 mins   ███░░░░░░░░░░░░░░░░   12.57% 
-TypeScript   3 hrs 21 mins   ██░░░░░░░░░░░░░░░░░   8.89%
-```
-<!--END_SECTION:waka-->
-
-## 🎵 Currently Playing
-
-<!-- You'll need to set up a music integration for this -->
-[![Spotify](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my Digital Garden
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </p>
+
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&labelColor=1f2233&color=0284c7)](https://github.com/yourusername?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&logo=github&labelColor=1f2233&color=0284c7)](https://github.com/yourusername?tab=repositories)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-YourName.dev-blue?style=for-the-badge&logo=google-chrome&labelColor=1f2233&color=0284c7)](https://yourname.dev)
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=yourusername" width="720" />
+</div>
+
+<!-- Technology Wave Section -->
+<div align="center">
+  <h2>🌊 Technology Ocean</h2>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,docker,kubernetes,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,nginx,git,figma,vscode,bash,linux,vim" />
+</div>
+
+<!-- Contribution Graph -->
+<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<!-- Stats Section -->
+<h2 align="center">📊 Code Metrics & Analytics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+</div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true" width="100%">
+
+<!-- Projects Section -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<!-- Coding Activity -->
+<h2 align="center">💻 Weekly Coding Stats</h2>
+
+```text
+JavaScript   ██████████████░░░░░   70.5%  │  ⭐ Projects:    42
+TypeScript   ████████░░░░░░░░░░░   45.8%  │  🎯 Commits:     1.2k
+React        ███████░░░░░░░░░░░░   40.2%  │  🚀 Experience:  5+ years
+Python       ██████░░░░░░░░░░░░░   35.5%  │  💼 Role:        Full Stack
+```
+
+<!-- Current Status -->
+<h2 align="center">🎯 Current Focus</h2>
+
+<div align="center">
+  
+  ```mermaid
+  mindmap
+    root((2024 Goals))
+      Mastering
+        Advanced React Patterns
+        System Design
+        Cloud Architecture
+      Building
+        Open Source Tools
+        Developer Utilities
+        Community Projects
+      Learning
+        AI/ML
+        Web3
+        Blockchain
+  ```
+  
+</div>
+
+<!-- Contact Section -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+</div>
