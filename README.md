@@ -41,7 +41,7 @@
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranugadeepna&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true" width="100%">
+![Ranugadeepna's Stats](https://github-readme-stats.vercel.app/api?username=Ranugadeepna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!-- Projects Section -->
 <h2 align="center">🚀 Featured Projects</h2>
