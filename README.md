@@ -56,10 +56,4 @@
 </div>
 
 <!-- Coding Activity -->
-<h2 align="center">💻 Weekly Coding Stats</h2>
-
-```text
-JavaScript   ██████████████░░░░░   70.5%  │  ⭐ Projects:    42
-TypeScript   ████████░░░░░░░░░░░   45.8%  │  🎯 Commits:     1.2k
-React        ███████░░░░░░░░░░░░   40.2%  │  🚀 Experience:  5+ years
-Python       ██████░░░░░░░░░░░░░   35.5%  │  💼 Role:        Full Stack
+![Ranugadeepna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranugadeepna&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
