@@ -1,6 +1,13 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to Ranuga Deepna's Digital Garden
 </h1>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <a href="https://github.com/ranugadeepna">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Photographer+%26+Software+Developer;Founder+of+Imagix+Photography;Robotics+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 # 💫 About Me:
 Hello Ranuga Deepna Vidmal,<br><br>Based on the information available, here's an updated draft for your profile:<br><br>- **🔭 I’m currently studying at:** Agraganya Institute by Eutech Cybernetics, which offers a two-year immersive course designed for individuals aged 16 to 20 from underserved communities. The program combines online and face-to-face learning experiences, focusing on equipping students with essential skills for high-tech professions in the evolving low-carbon economy. ([Agraganya](https://www.agraganya.org/?utm_source=chatgpt.com))<br><br>- **👯 I’m looking to collaborate on:** Projects related to sustainable technologies and innovations that contribute to a low-carbon economy.<br><br>- **🤝 I’m looking for help with:** Expanding my network within the tech industry, particularly with professionals and organizations focused on sustainability and low-carbon solutions.<br><br>- **🌱 I’m currently learning:** Advanced topics in technology and sustainability as part of my coursework at Agraganya Institute.<br><br>- **💬 Ask me about:** My experiences and insights on integrating technology with sustainable practices, as well as my journey in the immersive program at Agraganya.<br><br>- **📸 Photography:** I am also a passionate photographer and the founder of Imagix Photography. ([Facebook](https://www.facebook.com/profile.php?id=100094052430074&locale=nl_BE&utm_source=chatgpt.com))<br><br>- **⚡ Fun fact:** I am dedicated to leveraging technology and creativity to develop sustainable solutions that positively impact communities and the environment.<br><br>Feel free to adjust or add any details to better reflect your personal experiences and aspirations. 
 
