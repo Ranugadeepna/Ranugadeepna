@@ -18,9 +18,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ranugadeepna" width="720" />
-</div>
+
 
 <!-- Technology Wave Section -->
 <div align="center">
@@ -35,13 +33,10 @@
 <!-- Stats Section -->
 <h2 align="center">📊 Code Metrics & Analytics</h2>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranugadeepna&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranugadeepna&theme=tokyonight&hide_border=true" />
-</div>
 
-<!-- Activity Graph -->
 ![Ranugadeepna's Stats](https://github-readme-stats.vercel.app/api?username=Ranugadeepna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
 
 <!-- Projects Section -->
 <h2 align="center">🚀 Featured Projects</h2>
