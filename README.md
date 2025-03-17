@@ -19,7 +19,7 @@ Hello Ranuga Deepna Vidmal,<br><br>Based on the information available, here's an
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white )](https://www.instagram.com/rv_boy_02/ )
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white )](https://www.linkedin.com/in/ranuga-deepna/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white )](https://www.linkedin.com/in/ranuga-deepna-vidmal-650b1233a/)
 
 
 
